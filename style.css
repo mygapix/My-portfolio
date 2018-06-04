@@ -1,0 +1,433 @@
+body
+{
+    background-color: #111111;
+    color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+
+}
+
+#container
+{
+  width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.header
+{
+  width: 960px;
+  margin: 10px;
+  text-align: center;
+
+}
+
+.footer
+{
+  width: 1200px;
+  margin: 10px;
+  text-align: center;
+  color: #666666;
+}
+.square
+{
+  width: 9%;
+  float: left;
+  font-size: 15px;
+}
+
+.square2
+{
+  width: 90%;
+  float: left;
+  font-size: 15px;
+  text-align: center;
+}
+
+#osoba
+{
+  float: left;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 70px;
+  width: 600px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  }
+
+#logo
+{
+  float: left;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  width: 360px;
+  height: 50px;
+
+}
+
+.square__tile1
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #3095d3;
+  text-align: center;
+
+}
+
+.square__tile1:hover
+{
+  background-color: #2084c2;
+}
+
+.square__tile1a
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #8b61aa;
+  text-align: center;
+
+}
+ .square__tile1a:hover
+ {
+   background-color: #7a51aa;
+ }
+
+.square__tile2
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #666666;
+  text-align: center;
+}
+
+.square__tile2:hover
+{
+  background-color: #555555;
+}
+.square__tile3
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #93c748;
+  text-align: center;
+}
+
+.square__tile3:hover
+{
+  background-color: #82b637;
+}
+
+.square__tile3a
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #eab633;
+  text-align: center;
+}
+
+.square__tile3a:hover
+{
+  background-color: #daa522;
+}
+.square__tile4
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #ee5a32;
+  text-align: center;
+}
+
+.square__tile4:hover
+{
+  background-color: #dd4a21;
+}
+
+.square__tile5
+{
+  margin: 10px;
+  width: 1050px;
+  height: 590px;
+  background-color: #222222;
+  text-align: left;
+  font-size: 20px;
+  text-align: left;
+
+}
+
+.square2__tile5gal
+{
+  margin: 10px;
+  width: 1050px;
+  height: 565px;
+  background-color: #222222;
+  text-align: center;
+  padding-top: 25px;
+  
+
+
+
+}
+
+.square__tile5--link
+{
+  margin-top: 340px;
+  width: 80px;
+  height: 80px;
+  background-color: #3764a3;
+  text-align: center;
+  float:left;
+}
+ .link:hover
+ {
+   background-color: #3764a3;
+ }
+
+ .l1
+ {
+   width: 450px;
+   height: 60px;
+   float: left;
+   margin-top: 330px;
+
+ }
+
+ .l2
+ {
+   width: 450px;
+   height: 60px;
+   float: left;
+   margin-top: 330px;
+
+ }
+
+ .square__tile5__baner
+ {
+   width: 1000px;
+   height: 225px;
+   margin-left: 20px;
+   margin-top: 140px;
+
+ }
+a.tilelink
+{
+  color: #ffffff;
+  text-decoration: none;
+  display: block;
+  width: 130px;
+  height: 110px;
+}
+
+a.tilelinkhtml5
+{
+  color: #ffffff;
+  text-decoration: none;
+
+}
+
+.Slider
+{
+  margin: 10px;
+  width: 1050px;
+  height: 565px;
+  background-color: #222222;
+  text-align: center;
+  padding-top: 25px;
+}
+
+.square__tile5__form
+{
+  margin: 10px;
+  width: 600px;
+  height: 90px;
+  margin-left: 200px;
+  padding-top: 30px;
+  }
+
+.square__redEdgeAbout
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #3095d3;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+.square__redEdgeArchitecture
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #8b61aa;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+.square__redEdgeInterriors
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #666666;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+.square__redEdgeExtras
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #eab633;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+.square__redEdgeHobby
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #93c748;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+.square__redEdgeContact
+{
+  margin: 10px;
+  width: 100px;
+  height: 90px;
+  background-color: #ee5a32;
+  text-align: center;
+  border-right-style: solid;
+  border-right-width: 5px;
+  border-right-color: red;
+}
+
+/* CONTACT FORM */
+/* Style inputs with type="text", select elements and textareas */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px; /* Some padding */
+    border: 1px solid #ccc; /* Gray border */
+    box-sizing: border-box; /* Make sure that padding and width stays in place */
+    margin-top: 6px; /* Add a top margin */
+    margin-bottom: 16px; /* Bottom margin */
+    resize: none; /* Allow the user to vertically resize the textarea (not horizontally) */
+  }
+
+  #subject {
+    height: 160px;
+  }
+
+  #image{
+    width: 85%;
+  }
+
+/* Style the submit button with a specific background color etc */
+input[type=submit] {
+    background-color: #4CAF50;
+    color: white;
+    padding: 12px 20px;
+    border: none;
+    cursor: pointer;
+    margin-left: 250px;
+
+}
+
+/* When moving the mouse over the submit button, add a darker green color */
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+/* Add a background color and some padding around the form */
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Slideshow container */
+.slideshow-container {
+max-width: 950px;
+position: relative;
+margin: auto;
+}
+
+/* Hide the images by default */
+.square2__tile5gal__mySlides {
+ display: none;
+}
+
+/* Caption text */
+.square2__tile5gal__text {
+color: #f2f2f2;
+font-size: 20px;
+padding: 8px;
+position: static;
+bottom: 8px;
+width: 100%;
+text-align: center;
+}
+
+/* The dots/bullets/indicators */
+.square2__tile5gal--dot {
+cursor: pointer;
+height: 15px;
+width: 15px;
+margin: 0 2px;
+background-color: #bbb;
+border-radius: 50%;
+display: inline-block;
+transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+background-color: #717171;
+}
+
+.square2__tile5gal--prevBtn {
+cursor: pointer;
+
+
+}
+
+.square2__tile5gal--nextBtn {
+cursor: pointer;
+
+}
+
+/* Fading animation */
+.square2__tile5gal__fade {
+-webkit-animation-name: fade;
+-webkit-animation-duration: 1.5s;
+animation-name: fade;
+animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+from {opacity: .4}
+to {opacity: 1}
+}
+
+@keyframes fade {
+from {opacity: .4}
+to {opacity: 1}
+}
