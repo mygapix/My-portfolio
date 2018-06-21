@@ -25,11 +25,13 @@ body
 
 .footer
 {
-  width: 1200px;
+  width: 1170px;
   margin: 5px;
   text-align: center;
   color: #555555;
   font-size: 15px;
+
+
 }
 .square
 {
@@ -174,7 +176,7 @@ body
 
 .square__tile5--link
 {
-  margin-top: 20px;
+  margin-top: 30px;
   width: 80px;
   height: 80px;
   background-color: #3764a3;
@@ -197,10 +199,10 @@ body
 
  .l2
  {
-   width: 450px;
+   width: 250px;
    height: 60px;
    float: left;
-   margin-top: 330px;
+   margin-top: 30px;
 
  }
 
@@ -212,6 +214,13 @@ body
    margin-top: 100px;
 
  }
+.square__tile5__form__contactInfo
+{
+  width: 650px;
+  height: 80px;
+  text-align: left;
+  margin-left: 70px;
+}
 a.tilelink
 {
   color: #ffffff;
@@ -251,7 +260,7 @@ a.tilelinkhtml5
   margin-left: 200px;
   padding-top: 30px;
   text-align: center;
-  
+
   }
 
 .square__redEdgeAbout
